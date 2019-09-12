@@ -17,7 +17,7 @@ img {
   width: auto;
 }
 
-.versus {
+.flex {
   display: flex;
   align-items: center;
 }
